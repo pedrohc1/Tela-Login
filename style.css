@@ -58,6 +58,10 @@ form [type="submit"]{
     cursor: pointer;
 }
 
+ form [type="submit"]:hover{
+    background-color:#495cec;
+ }
+
 p {
 color:#CBD0F7;
 }
